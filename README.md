@@ -3,6 +3,8 @@
 This project demonstrates an autonomous robot car that can detect and avoid obstacles using an ultrasonic sensor and can also be manually controlled via a Bluetooth-enabled smartphone.  
 It combines basic robotics, sensors, and communication modules to show how embedded systems can be used to create an intelligent vehicle.
 
+![Arduino Car](https://github.com/user-attachments/assets/c27c8bec-e221-4983-9888-02f36ac786ff)
+
 ---
 
 ## Project Overview
